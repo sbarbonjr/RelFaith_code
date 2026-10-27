@@ -1,0 +1,121 @@
+dataset,seed,context,reversals,tau
+two circles,0,strat-3,1,0.7999999999999999
+two circles,0,strat-15,1,0.7999999999999999
+two circles,0,kNN graph 3,0,
+two circles,1,strat-3,1,0.7999999999999999
+two circles,1,strat-15,1,0.7999999999999999
+two circles,1,kNN graph 3,0,
+two circles,2,strat-3,0,0.9999999999999999
+two circles,2,strat-15,0,0.9999999999999999
+two circles,2,kNN graph 3,2,0.5270462766947298
+two circles,3,strat-3,0,0.9999999999999999
+two circles,3,strat-15,0,0.9999999999999999
+two circles,3,kNN graph 3,2,0.5270462766947298
+two circles,4,strat-3,1,0.7999999999999999
+two circles,4,strat-15,1,0.7999999999999999
+two circles,4,kNN graph 3,0,
+two circles,5,strat-3,0,0.9999999999999999
+two circles,5,strat-15,1,0.7999999999999999
+two circles,5,kNN graph 3,3,0.31622776601683794
+two circles,6,strat-3,1,0.7999999999999999
+two circles,6,strat-15,1,0.7999999999999999
+two circles,6,kNN graph 3,0,
+two circles,7,strat-3,0,0.9999999999999999
+two circles,7,strat-15,0,0.9999999999999999
+two circles,7,kNN graph 3,0,0.9999999999999999
+two circles,8,strat-3,0,0.9999999999999999
+two circles,8,strat-15,0,0.9999999999999999
+two circles,8,kNN graph 3,4,0.10540925533894598
+two circles,9,strat-3,2,0.5270462766947299
+two circles,9,strat-15,2,0.5270462766947299
+two circles,9,kNN graph 3,0,
+two circles,10,strat-3,1,0.7999999999999999
+two circles,10,strat-15,1,0.7999999999999999
+two circles,10,kNN graph 3,0,
+two circles,11,strat-3,1,0.7999999999999999
+two circles,11,strat-15,1,0.7999999999999999
+two circles,11,kNN graph 3,0,
+two circles,12,strat-3,0,0.9999999999999999
+two circles,12,strat-15,0,0.9999999999999999
+two circles,12,kNN graph 3,2,0.4472135954999579
+two circles,13,strat-3,0,1.0
+two circles,13,strat-15,0,1.0
+two circles,13,kNN graph 3,2,0.3779644730092272
+two circles,14,strat-3,0,1.0
+two circles,14,strat-15,0,1.0
+two circles,14,kNN graph 3,4,0.1111111111111111
+two circles,15,strat-3,1,0.7999999999999999
+two circles,15,strat-15,1,0.7999999999999999
+two circles,15,kNN graph 3,1,0.31622776601683794
+two circles,16,strat-3,1,0.7999999999999999
+two circles,16,strat-15,1,0.7999999999999999
+two circles,16,kNN graph 3,1,0.7378647873726218
+two circles,17,strat-3,1,0.7999999999999999
+two circles,17,strat-15,0,0.9999999999999999
+two circles,17,kNN graph 3,3,0.22360679774997896
+two circles,18,strat-3,0,0.9999999999999999
+two circles,18,strat-15,0,0.9999999999999999
+two circles,18,kNN graph 3,4,0.19999999999999998
+two circles,19,strat-3,3,0.39999999999999997
+two circles,19,strat-15,2,0.6
+two circles,19,kNN graph 3,2,0.35856858280031806
+two moons,0,strat-3,1,0.7999999999999999
+two moons,0,strat-15,0,0.9999999999999999
+two moons,0,kNN graph 3,0,
+two moons,1,strat-3,4,0.19999999999999998
+two moons,1,strat-15,1,0.7999999999999999
+two moons,1,kNN graph 3,0,
+two moons,2,strat-3,0,0.9999999999999999
+two moons,2,strat-15,0,0.9999999999999999
+two moons,2,kNN graph 3,0,
+two moons,3,strat-3,0,1.0
+two moons,3,strat-15,0,1.0
+two moons,3,kNN graph 3,0,0.9428090415820632
+two moons,4,strat-3,2,0.6
+two moons,4,strat-15,1,0.7999999999999999
+two moons,4,kNN graph 3,0,
+two moons,5,strat-3,4,0.19999999999999998
+two moons,5,strat-15,2,0.6
+two moons,5,kNN graph 3,3,0.11952286093343936
+two moons,6,strat-3,2,0.6
+two moons,6,strat-15,2,0.6
+two moons,6,kNN graph 3,0,
+two moons,7,strat-3,2,0.6
+two moons,7,strat-15,1,0.7999999999999999
+two moons,7,kNN graph 3,2,0.35856858280031806
+two moons,8,strat-3,3,0.39999999999999997
+two moons,8,strat-15,0,0.9999999999999999
+two moons,8,kNN graph 3,0,
+two moons,9,strat-3,1,0.7999999999999999
+two moons,9,strat-15,1,0.7999999999999999
+two moons,9,kNN graph 3,0,
+two moons,10,strat-3,1,0.7999999999999999
+two moons,10,strat-15,0,0.9999999999999999
+two moons,10,kNN graph 3,1,0.7378647873726218
+two moons,11,strat-3,3,0.39999999999999997
+two moons,11,strat-15,0,0.9999999999999999
+two moons,11,kNN graph 3,3,0.31622776601683794
+two moons,12,strat-3,2,0.6
+two moons,12,strat-15,2,0.6
+two moons,12,kNN graph 3,0,
+two moons,13,strat-3,2,0.6
+two moons,13,strat-15,1,0.7999999999999999
+two moons,13,kNN graph 3,0,0.6324555320336759
+two moons,14,strat-3,1,0.7999999999999999
+two moons,14,strat-15,0,0.9999999999999999
+two moons,14,kNN graph 3,2,0.5270462766947298
+two moons,15,strat-3,2,0.6
+two moons,15,strat-15,1,0.7999999999999999
+two moons,15,kNN graph 3,0,
+two moons,16,strat-3,2,0.6
+two moons,16,strat-15,1,0.7999999999999999
+two moons,16,kNN graph 3,1,0.7378647873726218
+two moons,17,strat-3,2,0.6
+two moons,17,strat-15,1,0.7999999999999999
+two moons,17,kNN graph 3,0,
+two moons,18,strat-3,0,0.9486832980505138
+two moons,18,strat-15,0,0.9486832980505138
+two moons,18,kNN graph 3,0,
+two moons,19,strat-3,2,0.6
+two moons,19,strat-15,1,0.7999999999999999
+two moons,19,kNN graph 3,2,0.5270462766947298

@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.0
+scikit-learn==1.7.2
+matplotlib==3.9.1
+alibi==0.9.6
+pillow==10.4.0
+# DPG is installed separately into .vendor/dpg (see README)

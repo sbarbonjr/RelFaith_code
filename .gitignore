@@ -1,0 +1,6 @@
+# Vendored DPG dependencies (about 430 MB; reinstall instead of committing)
+.vendor/
+
+# Python
+__pycache__/
+*.pyc

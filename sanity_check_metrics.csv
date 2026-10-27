@@ -1,0 +1,2 @@
+spectral_n,train_fidelity_rf,train_fidelity_1nn,explanation_train_accuracy,explanation_test_accuracy,offsample_agreement_expl_rf,offsample_agreement_expl_1nn,offsample_agreement_rf_1nn,heldout_all_pairs_S,heldout_all_pairs_D,heldout_all_pairs_F_W,heldout_stratified_15nn_pairs,heldout_stratified_15nn_S,heldout_stratified_15nn_D,heldout_stratified_15nn_F_W
+240,1.0,1.0,0.8988095238095238,0.9027777777777778,0.82105,0.71225,0.8772,0.8823529411764706,0.7586206896551724,0.8158220024721878,1490,0.9014084507042254,0.8730904817861339,0.8870235130622942
