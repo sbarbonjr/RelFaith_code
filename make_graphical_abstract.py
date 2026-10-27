@@ -45,8 +45,8 @@ for i, (tag, head, what, res) in enumerate(boxes):
 ax.text(.3, .98, 'Answer: an explanation is faithful to its declared explanandum. Absent a native rule,\n'
         'the default reference is the observed relational structure of the partition.',
         fontsize=12, fontweight='bold', color=INK, va='center', linespacing=1.35)
-ax.text(.3, .3, 'All-pairs, unit-weight W is classical pair counting: a reporting protocol, not a new index. '
-        'Results: two synthetic benchmarks, 20 seeds.', fontsize=9.5, color=GRAY, va='center')
+ax.text(.3, .3, 'All-pairs, unit-weight W recovers classical pair counting; the protocol declares the remaining choices. '
+        'Results: two synthetic benchmarks, 20 replications.', fontsize=9.5, color=GRAY, va='center')
 
 fig.savefig(OUT / 'graphical_abstract.png', dpi=200)
 Image.open(OUT / 'graphical_abstract.png').convert('RGB').save(OUT / 'graphical_abstract.tiff', compression='tiff_lzw')
